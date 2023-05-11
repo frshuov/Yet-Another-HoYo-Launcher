@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Yet-Another-HoYo-Launcher (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Yet-Another-HoYo-Launcher (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
