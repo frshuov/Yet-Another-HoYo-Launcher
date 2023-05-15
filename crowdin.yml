@@ -23,7 +23,7 @@ files: [
  },
  {
   "source" : "/Yet-Another-HoYo-Launcher/Strings/en-US/*.resw",
-  "translation" : "Yet-Another-HoYo-Launcher/Strings/%locale%/%original_file_name%"
+  "translation" : "/Yet-Another-HoYo-Launcher/Strings/%locale%/%original_file_name%"
  },
  {
   "source" : "/README.md",
