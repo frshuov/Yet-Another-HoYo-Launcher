@@ -8,15 +8,15 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="296485b6-e9e2-4153-8bed-a7d99e2b8bb4"
+    Name="Yet-Another-HoYo-Launcher"
     Publisher="CN=frshu"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="296485b6-e9e2-4153-8bed-a7d99e2b8bb4" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>Yet-Another-HoYo-Launcher</DisplayName>
-    <PublisherDisplayName>frshu</PublisherDisplayName>
+    <DisplayName>Yet Another HoYo Launcher</DisplayName>
+    <PublisherDisplayName>frshuov</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
