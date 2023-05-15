@@ -19,7 +19,7 @@ files: [
  {
   "source" : "/Docs/md/**/*.md",
   "ignore" : ["/Docs/md/i18n/**/*.md"],
-  "translation" : "/Docs/md/i18n/%locale%/%original_file_name%"
+  "translation" : "/Docs/md/i18n/%locale%/**/%original_file_name%"
  },
  {
   "source" : "/Yet-Another-HoYo-Launcher/Strings/en-US/*.resw",
