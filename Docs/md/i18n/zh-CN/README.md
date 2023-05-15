@@ -1,5 +1,5 @@
-# 忽悠启动器
+# Yet-Another-HoYo-Launcher
 
 [简体中文/zh-CN](/Docs/md/i18n/zh-CN/README.md)
 
-这个仓库目前还不包含启动器。
+This Repo not contains a usable launcher yet.
