@@ -1,5 +1,5 @@
-# Yet-Another-HoYo-Launcher
+# Йет-Анотер-Хойо-лаунчер
 
-[简体中文/zh-CN](/Docs/md/i18n/zh-CN/README.md)
+[ЧО<unk> З/чж-CN](/Docs/md/i18n/zh-CN/README.md)
 
-This Repo not contains a usable launcher yet.
+Репо не містить миттєвий лаунчер.
