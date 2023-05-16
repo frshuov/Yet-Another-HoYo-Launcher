@@ -126,19 +126,19 @@
     <comment>Honkai Impact 3</comment>
   </data>
   <data name="Game_Name_Sr.Text" xml:space="preserve">
-    <value>Honkai: Star Rail</value>
+    <value>Honkai: Gwiezdny Kolej</value>
     <comment>Honkai: Star Rail</comment>
   </data>
   <data name="Game_Name_Zzz.Text" xml:space="preserve">
-    <value>Zenless Zone Zero</value>
+    <value>Strefa Zenless Zero</value>
     <comment>Zenless Zone Zero</comment>
   </data>
   <data name="YAHL_i18n_TestString.Text" xml:space="preserve">
-    <value>English Test Text</value>
+    <value>Angielski tekst testowy</value>
     <comment>Test string. Translate should be like "[object language] test string".</comment>
   </data>
   <data name="YAHL_Title.Text" xml:space="preserve">
-    <value>Yet Another HoYo Launcher</value>
+    <value>Kolejny Launcher HoYo</value>
     <comment>Title of this launcher</comment>
   </data>
 </root>
