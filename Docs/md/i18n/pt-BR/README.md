@@ -1,5 +1,5 @@
 # Yet-Another-HoYo-Launcher
 
-[简体中文/zh-CN](/Docs/md/i18n/zh-CN/README.md)
+[(ExplicitText="erereposica/zh-CN](/Docs/md/i18n/zh-CN/README.md)
 
-This Repo not contains a usable launcher yet.
+Este repositório ainda não contém um lançador utilizável.
