@@ -1,5 +1,5 @@
-# Yet-Another-HoYo-Launcher
+# End-Another-HoYo-Launcher
 
-[简体中文/zh-CN](/Docs/md/i18n/zh-CN/README.md)
+[Rækkevidde / zh-CN](/Docs/md/i18n/zh-CN/README.md)
 
-This Repo not contains a usable launcher yet.
+Denne Repo indeholder endnu ikke en brugbar launcher.
