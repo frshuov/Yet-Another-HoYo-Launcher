@@ -134,11 +134,11 @@
     <comment>Zenless Zone Zero</comment>
   </data>
   <data name="YAHL_i18n_TestString.Text" xml:space="preserve">
-    <value>English Test Text</value>
+    <value>Δοκιμαστικό Κείμενο</value>
     <comment>Test string. Translate should be like "[object language] test string".</comment>
   </data>
   <data name="YAHL_Title.Text" xml:space="preserve">
-    <value>Yet Another HoYo Launcher</value>
+    <value>Ακόμα Ένας άλλος Εκκινητής HoYo</value>
     <comment>Title of this launcher</comment>
   </data>
 </root>
