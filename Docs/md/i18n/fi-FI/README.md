@@ -1,5 +1,5 @@
 # Yet-Another-HoYo-Launcher
 
-[简体中文/zh-CN](/Docs/md/i18n/zh-CN/README.md)
+[- V- /zh-CN](/Docs/md/i18n/zh-CN/README.md)
 
-This Repo not contains a usable launcher yet.
+Tämä Repo ei sisällä vielä käyttökelpoista launcheria.
