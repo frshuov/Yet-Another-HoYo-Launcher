@@ -27,16 +27,16 @@
 
                 <NavigationView.MenuItems>
                     <NavigationViewItem x:Name="HomePageMenuItem" Icon="Home" Tag="HomePage">
-                        <TextBlock x:Uid="Label_HomePage" Tag="HomePage" />
+                        <TextBlock x:Uid="Label_HomePage" />
                     </NavigationViewItem>
                     <NavigationViewItem x:Name="GenshinMenuItem" Icon="Play" Tag="GamePageGenshin">
-                        <TextBlock x:Uid="Game_Name_Genshin" Tag="GamePageGenshin" />
+                        <TextBlock x:Uid="Game_Name_Genshin" />
                     </NavigationViewItem>
                     <NavigationViewItem x:Name="HonkaiMenuItem" Icon="Play" Tag="GamePageHonkai">
-                        <TextBlock x:Uid="Game_Name_Hi3" Tag="GamePageHonkai" />
+                        <TextBlock x:Uid="Game_Name_Hi3" />
                     </NavigationViewItem>
                     <NavigationViewItem x:Name="StarRailMenuItem" Icon="Play" Tag="GamePageStarRail">
-                        <TextBlock x:Uid="Game_Name_SR" Tag="GamePageStarRail" />
+                        <TextBlock x:Uid="Game_Name_SR" />
                     </NavigationViewItem>
                 </NavigationView.MenuItems>
 
