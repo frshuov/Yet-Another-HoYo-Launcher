@@ -8,11 +8,11 @@
   IgnorableNamespaces="uap rescap">
 
   <Identity
-    Name="Yet-Another-HoYo-Launcher"
-    Publisher="CN=frshu"
+    Name="38601teamMetamagicism.511356D23DF3C"
+    Publisher="CN=C544EF3C-53AD-4353-89DA-8E8963483422"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="296485b6-e9e2-4153-8bed-a7d99e2b8bb4" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="a9515e97-7a7d-4892-9779-5ace6a2ea55b" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Yet Another HoYo Launcher</DisplayName>

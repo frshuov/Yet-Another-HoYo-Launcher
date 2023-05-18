@@ -15,6 +15,7 @@ using Windows.Foundation.Collections;
 using Microsoft.UI.Composition.SystemBackdrops;
 using System.Runtime.InteropServices;
 using WinRT;
+using Windows.UI.ApplicationSettings;
 
 
 // To learn more about WinUI, the WinUI project structure,
@@ -44,8 +45,9 @@ namespace Yet_Another_HoYo_Launcher
 
             TrySetSystemBackdrop();
 
-        }
+            mainFrame.Navigate(typeof(MainPage));
 
+        }
         
 
         bool TrySetSystemBackdrop()
@@ -113,11 +115,7 @@ namespace Yet_Another_HoYo_Launcher
             }
         }
 
-        private void TestButton1_Click(object sender, RoutedEventArgs e)
-        {
-            var resourceLoader = new Windows.ApplicationModel.Resources.ResourceLoader();
-            TestButton1.Content = resourceLoader.GetString("YAHL_Title/Text");
-        }
+
     }
 }
 

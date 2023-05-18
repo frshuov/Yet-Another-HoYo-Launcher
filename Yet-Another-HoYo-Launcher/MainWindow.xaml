@@ -8,7 +8,9 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid x:Name="MainGrid">
+    <Grid>
+
+        <Frame x:Name="mainFrame" Margin="0,32,0,0" />
 
         <StackPanel x:Name="MainWindowTitleBar" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
             <Grid>
@@ -31,14 +33,6 @@
             </Grid>
         </StackPanel>
 
-        <StackPanel x:Name="SP1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
-
-            <Button x:Name="TestButton1" Click="TestButton1_Click">
-                <TextBlock x:Uid="YAHL_i18n_TestString" />
-            </Button>
-
-        </StackPanel>
     </Grid>
 
 </Window>
-
