@@ -133,8 +133,9 @@
     <value>Zenless Zone Zero</value>
     <comment>Zenless Zone Zero</comment>
   </data>
-  <data name="Lable_HomePage.Text" xml:space="preserve">
+  <data name="Label_HomePage.Text" xml:space="preserve">
     <value>Home</value>
+    <comment>Which shows in navigation sidebar.</comment>
   </data>
   <data name="YAHL_i18n_TestString.Text" xml:space="preserve">
     <value>English Test Text</value>
