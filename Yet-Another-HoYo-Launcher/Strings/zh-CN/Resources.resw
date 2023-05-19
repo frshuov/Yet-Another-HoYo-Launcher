@@ -133,6 +133,10 @@
     <value>绝区零</value>
     <comment>Zenless Zone Zero</comment>
   </data>
+  <data name="Label_HomePage.Text" xml:space="preserve">
+    <value>Home</value>
+    <comment>Which shows in navigation sidebar.</comment>
+  </data>
   <data name="YAHL_i18n_TestString.Text" xml:space="preserve">
     <value>简体中文测试文本</value>
     <comment>Test string. Translate should be like "[object language] test string".</comment>
