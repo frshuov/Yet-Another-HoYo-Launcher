@@ -134,7 +134,7 @@
     <comment>Zenless Zone Zero</comment>
   </data>
   <data name="Label_HomePage.Text" xml:space="preserve">
-    <value>Home</value>
+    <value>主页</value>
     <comment>Which shows in navigation sidebar.</comment>
   </data>
   <data name="YAHL_i18n_TestString.Text" xml:space="preserve">
